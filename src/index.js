@@ -36,4 +36,4 @@ function render(instanceId, langCode, origin, cb) {
   serviceWorker.unregister();
 }
 
-window.renderExampleWidget = render;
+window.renderPOVWidget = render;

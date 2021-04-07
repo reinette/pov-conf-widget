@@ -65,7 +65,7 @@
         </div>
       </div>
     </section>
-    <script src="//reinette.github.io/widget-registry-boilerplate/widget-registry/production/loader.js"></script>
+    <script src="//reinette.github.io/pov-widget-registry/widget-registry/production/loader.js"></script>
     <script>
       document.loadWidgets([
         {
@@ -74,7 +74,7 @@
           onRenderFinish: (domElement) =>
             console.debug('The widget has finished rendering: ', domElement),
           origin: 'https://reinette.github.io',
-          renderFunctionName: 'renderExampleWidget',
+          renderFunctionName: 'renderPOVWidget',
         },
       ]);
     </script>
