@@ -1,11 +1,11 @@
 {
-  "name": "@js-widgets/example-widget",
+  "name": "@reinette/pov-conf-widget",
   "private": false,
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://js-widgets.github.io/example-widget",
+  "homepage": "https://reinette.github.io/pov-conf-widget",
   "dependencies": {
     "postcss-wrap": "^0.0.4",
     "prop-types": "^15.7.2",
