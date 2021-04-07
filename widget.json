@@ -1,20 +1,6 @@
 {
   "availableTranslations": [
-    "ar",
-    "de",
-    "en",
-    "es",
-    "esla",
-    "fr",
-    "it",
-    "ja",
-    "ko",
-    "pl",
-    "pt",
-    "ru",
-    "tr",
-    "zh-cn",
-    "zh-tw"
+    "en"
   ],
   "description": "This example contains documentation and example code for creating widgets using React.",
   "settingsSchema": {

@@ -1,7 +1,8 @@
 {
-  "name": "@reinette/pov-conf-widget",
+  "name": "pov-conf-widget",
   "private": false,
   "license": "MIT",
+  "version": "1.1.1",
   "publishConfig": {
     "access": "public"
   },
@@ -9,7 +10,7 @@
   "dependencies": {
     "postcss-wrap": "^0.0.4",
     "prop-types": "^15.7.2",
-    "react": "^17.0.1",
+    "react": "^17.0.2",
     "react-dom": "^17.0.1",
     "react-intl": "^5.10.6",
     "react-intl-translations-manager": "^5.0.3"
@@ -41,6 +42,7 @@
     "prettier": "^2.2.1",
     "react-scripts": "^4.0.1",
     "rimraf": "^3.0.2",
+    "semantic-release": "^17.0.8",
     "webpack": "^4.44.2"
   }
 }
