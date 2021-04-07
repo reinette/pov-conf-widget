@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 
 function Widget({ element }) {
   return (
-    <div className="Widget example-widget">
+    <div className="Widget pov-conf-widget">
       <h1 className="is-size-4 pb-2">
         <FormattedMessage id="widget.welcome-msg" defaultMessage="Hiya!" />
       </h1>
