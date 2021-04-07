@@ -7,7 +7,7 @@ function Widget({ element }) {
   return (
     <div className="Widget example-widget">
       <h1 className="is-size-4 pb-2">
-        <FormattedMessage id="widget.welcome-msg" defaultMessage="Welcome!" />
+        <FormattedMessage id="widget.welcome-msg" defaultMessage="Hiya!" />
       </h1>
       <p className="is-size-6 pb-2">
         <FormattedMessage
@@ -18,7 +18,7 @@ function Widget({ element }) {
       <p className="is-size-7 pb-4">
         <FormattedMessage
           id="widget.details-paragraph"
-          defaultMessage="It is not very complex, but it has a button with configurable text (added by the editors while embedding in the CMS), some CSS, some JS, some media, it is translatable, &#8230;"
+          defaultMessage="This widget has a button with configurable text. This text can be passed from Drupal into the widget. It also comes with some CSS, JS, and media."
         />
       </p>
       <p className="is-size-6 pb-4">
